@@ -19,5 +19,5 @@ end
 def find_the_cheese(array_of_strings)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
-  
+  array_of_strings.include? 
 end
